@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -70,3 +71,6 @@ Input fields for adding or updating contacts are validated using Formik and Yup.
 All contacts are stored in Firebase Firestore, which ensures fast, reliable, and scalable storage. This also provides automatic backups and guarantees that the contact data is available from any device.
 
 >>>>>>> 0bf27501efeb63e8e4c761401007779106e43959
+=======
+# Contactify
+>>>>>>> 142c2b489141bd541364744cc395579225df87ae
