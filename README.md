@@ -1,5 +1,4 @@
-# Contactify
-Here’s a feature list with descriptions for your contact management app:
+# Contactify - a Firebase contact app
 
 
 ### **Feature 1: Add & Update Contacts**
